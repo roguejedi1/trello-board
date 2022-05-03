@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.border {
+  background: lightgrey;
+  width: 20%;
+  border-radius: 5%;
+  bottom: 20px;
+}
+
+.title {
+  padding-left: 5%;
+}
+
+.inner {
+  padding-left: 5%;
+}
+
+.task {
+  border-radius: 5%;
+  background: white;
+  width: 90%;
+}
